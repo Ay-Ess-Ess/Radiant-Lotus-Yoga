@@ -1,0 +1,24 @@
+Cerc sportiv,23.0,5,Lotus Centru
+Set benzi elastice,45.0,8,Lotus Centru
+Curea yoga,22.0,18,Lotus Centru
+Incensoare aromaterapie,12.0,30,Lotus Centru
+Perna meditatie,60.0,10,Lotus Centru
+Set uleiuri esentiale,100.0,3,Lotus Centru
+Saltea yoga,50.0,10,Lotus Ciocana
+Sticla apa,10.0,50,Lotus Ciocana
+Rulou spuma,28.0,10,Lotus Ciocana
+Greutati maini,20.0,15,Lotus Ciocana
+Tavita aromaterapie,20.0,25,Lotus Ciocana
+Covoras acupresiune,50.0,10,Lotus Ciocana
+Bloc yoga,15.0,20,Lotus Buiucani
+Genunchiere,20.0,30,Lotus Buiucani
+Masca ochi,14.0,22,Lotus Buiucani
+Greutati glezne,20.0,15,Lotus Buiucani
+Coloana aromaterapie,18.0,15,Lotus Buiucani
+Lumanari aromaterapie,15.0,20,Lotus Buiucani
+Minge pilates,30.0,15,Lotus Rascani
+Prosop microfibra,18.0,40,Lotus Rascani
+Sac meditatie,55.0,7,Lotus Rascani
+Crema incalzire,15.0,35,Lotus Rascani
+Difuzor uleiuri esentiale,70.0,5,Lotus Rascani
+Suport saltea,35.0,18,Lotus Rascani

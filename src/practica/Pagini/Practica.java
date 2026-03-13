@@ -24,8 +24,6 @@ import practica.ClaseCuDate.Angajat;
 import practica.ClaseCuDate.Client;
 import practica.ClaseCuDate.StudiouYoga;
 
-import static javafx.application.Application.launch;
-
 
 
 public class Practica extends Application {
@@ -69,7 +67,10 @@ public class Practica extends Application {
     }
     
     private void createGUI(Stage primaryStage) {
-        primaryStage.getIcons().add(new Image("file:C:\\Users\\suhar\\OneDrive\\Documente\\NetBeansProjects\\Practica\\src\\practica\\images\\logo.png"));
+        java.io.InputStream iconStream = getClass().getResourceAsStream("/practica/images/logo.png");
+        if (iconStream != null) {
+            primaryStage.getIcons().add(new Image(iconStream));
+        }
         primaryStage.setHeight(700);
         primaryStage.setWidth(800);
         primaryStage.setTitle("Radiant Lotus Yoga");
@@ -220,6 +221,7 @@ public class Practica extends Application {
         });
         
         login.setOnKeyPressed(new EventHandler<KeyEvent>() {
+            //System.out.print();
             String user = client.getUsername(), password = client.getPassword();
             @Override
             public void handle(KeyEvent event) {

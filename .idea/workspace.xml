@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b116a68-4bb9-4aef-9916-250e3962ceb8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.githug/workflows/build.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/openjdk_25_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/jfx-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practica/Pagini/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practica/Pagini/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practica/Pagini/Practica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practica/Pagini/Practica.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AdrianaGirlea&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ay-Ess-Ess/Radiant-Lotus-Yoga.git&quot;,
+    &quot;accountId&quot;: &quot;26019488-8348-4b9d-99bc-f235395fc0b0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3AtED1B3PlL24ur2mJzq7hYQJ8b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Practica.executor": "Run",
+    "Maven.RadiantLotusYoga [org.openjfx:javafx-maven-plugin:0.0.8:run].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/suhar/OneDrive/Desktop/Suhari Alexei/Sarcina Practica/Radiant Lotus Yoga/pom.xml"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practica" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b116a68-4bb9-4aef-9916-250e3962ceb8" name="Changes" comment="" />
+      <created>1773403342582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773403342582</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
