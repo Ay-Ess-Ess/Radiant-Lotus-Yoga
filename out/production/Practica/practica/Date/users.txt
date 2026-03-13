@@ -1,0 +1,43 @@
+manager,Suhari Alexei,str Valea Crucii 4,068089082,suharia7002@gmail.com,alexeisuhari,234Alexei567,Lotus Botaniaca
+manager,Popescu Maria,str Primaverii 10,078289654,popescu.maria@example.com,mariapopescu,456Maria789,Lotus Centru
+manager,Ionescu Vasile,bd Independentei 30,0732123123,vasile.ionescu@example.com,vasileionescu,789Vasile123,Lotus Ciocana
+manager,Stan Ana,str Victoriei 25,0744123456,ana.stan@example.com,anastan,123Ana456,Lotus Buiucani
+manager,Dumitrescu George,str Bucuresti 5,0726123456,george.dumitrescu@example.com,georgedumitrescu,456George789,Lotus Rascani
+angajat,Plop Ion,str Cuza Voda 6,068563823,plopion23@gmail.com,ionutplop,ionut456,Lotus Botaniaca
+angajat,Andreea Chiseliov,str Moscovei 5,068964732,andreea@gmail.com,andychis,andy789,Lotus Centru
+angajat,Ionescu Maria,str Libertatii 15,072312312,maria.ionescu@example.com,mariaionescu,567Maria890,Lotus Ciocana
+angajat,Pop Ana,str Victoriei 25,0744123456,ana.pop@example.com,anapop,987Ana654,Lotus Buiucani
+angajat,Andrei Vasile,bd Independentei 30,0732123123,vasile.andrei@example.com,vasileandrei,123Vasile456,Lotus Rascani
+angajat,Popovici Alina,str Garii 12,0766123456,alina.popovici@example.com,alinapopovici,789Alina123,Lotus Botaniaca
+angajat,Iacob Florin,bd Eroilor 14,0727123456,florin.iacob@example.com,floriniacob,234Florin567,Lotus Centru
+angajat,Balan Alexandru,bd Republicii 22,0747123456,alexandru.balan@example.com,alexandrubalan,678Alexandru123,Lotus Ciocana
+angajat,Popa Mihaela,str Trandafirilor 3,0757123456,mihaela.popa@example.com,mihaelapopa,456Mihaela789,Lotus Buiucani
+angajat,Mihai Andrei,bd Revolutiei 25,0767123456,andrei.mihai@example.com,andreimihai,789Andrei123,Lotus Rascani
+angajat,Nistor Gabriela,str Pacii 17,0728123456,gabriela.nistor@example.com,gabrielanistor,123Gabriela456,Lotus Botaniaca
+angajat,Stoica Mihai,bd Fratiei 8,0738123456,mihai.stoica@example.com,mihaistoica,567Mihai789,Lotus Centru
+angajat,Popescu Elena,str Luminii 21,0748123456,elena.popescu@example.com,elenapopescu,123Elena456,Lotus Ciocana
+angajat,Ionescu Victor,bd Soarelui 30,0758123456,victor.ionescu@example.com,victorionescu,456Victor789,Lotus Buiucani
+angajat,Stanescu Daniela,str Florilor 5,0768123456,daniela.stanescu@example.com,danielastanescu,789Daniela123,Lotus Rascani
+angajat,Radulescu Marian,bd Muncii 12,0729123456,marian.radulescu@example.com,marianradulescu,234Marian567,Lotus Botaniaca
+angajat,Cojocaru Alexandra,str Crestei 4,0739123456,alexandra.cojocaru@example.com,alexandracojocaru,678Alexandra123,Lotus Centru
+angajat,Angajat Test,bd Muncii 12,0729123456,marian.radulescu@example.com,angajat,angajat,Lotus Botaniaca
+manager,Manager Test,bd Muncii 12,0729123456,marian.radulescu@example.com,manager,manager,Lotus Botaniaca
+user,Suhari Alexei,str Primaverii 10,078289654,popescu.ion@example.com,ionpopescu,ion456 Popescu
+user,Ionescu Maria,str Libertatii 15,0723123123,maria.ionescu@example.com,mariaionescu,567Ionescu890
+user,Andrei Vasile,bd Independentei 30,0732123123,vasile.andrei@example.com,vasileandrei,123Vasile456
+user,Pop Ana,str Victoriei 25,0744123456,ana.pop@example.com,anapop,987Ana654
+user,Dumitrescu George,str Bucuresti 5,0726123456,george.dumitrescu@example.com,georgedumitrescu,456George789
+user,Stan Elena,bd Unirii 20,0736123456,elena.stan@example.com,elenastan,789Elena123
+user,Radu Andrei,str Mihai Viteazu 7,0756123456,andrei.radu@example.com,andreiradu,456Andrei789
+user,Popovici Alina,str Garii 12,0766123456,alina.popovici@example.com,alinapopovici,789Alina123
+user,Iacob Florin,bd Eroilor 14,0727123456,florin.iacob@example.com,floriniacob,234Florin567
+user,Balan Alexandru,bd Republicii 22,0747123456,alexandru.balan@example.com,alexandrubalan,678Alexandru123
+user,Popa Mihaela,str Trandafirilor 3,0757123456,mihaela.popa@example.com,mihaelapopa,456Mihaela789
+user,Mihai Andrei,bd Revolutiei 25,0767123456,andrei.mihai@example.com,andreimihai,789Andrei123
+user,Nistor Gabriela,str Pacii 17,0728123456,gabriela.nistor@example.com,gabrielanistor,123Gabriela456
+user,Stoica Mihai,bd Fratiei 8,0738123456,mihai.stoica@example.com,mihaistoica,567Mihai789
+user,Popescu Elena,str Luminii 21,0748123456,elena.popescu@example.com,elenapopescu,123Elena456
+user,Ionescu Victor,bd Soarelui 30,0758123456,victor.ionescu@example.com,victorionescu,456Victor789
+user,Radulescu Marian,bd Muncii 12,0729123456,marian.radulescu@example.com,marianradulescu,234Marian567
+user,Cojocaru Alexandra,str Crestei 4,0739123456,alexandra.cojocaru@example.com,alexandracojocaru,678Alexandra123
+user,Test User,str Dacia 6/2,0739125236,olga.frunza@example.com,username,username

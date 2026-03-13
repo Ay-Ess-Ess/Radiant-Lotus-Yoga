@@ -1,0 +1,21 @@
+Masaj terapeutic,Lotus Centru,150.0,Andreea Chiseliov
+Yoga pentru începători,Lotus Buiucani,120.0,Maria Ionescu
+Pilates,Lotus Râșcani,180.0,Ana Pop
+Sesiuni de mindfulness,Lotus Botanica,190.0,Vasile Andrei
+Yoga pentru seniori,Lotus Ciocana,130.0,Alina Popovici
+Masaj de relaxare,Lotus Buiucani,160.0,Florin Iacob
+Meditație ghidată,Lotus Centru,140.0,Alexandru Bălan
+Yoga prenatală,Lotus Râșcani,170.0,Mihaela Popa
+Pilates,Lotus Botanica,110.0,Plop Ion
+Terapie cucristale,Lotus Ciocana,200.0,Gabriela Nistor
+Masaj sportiv,Lotus Buiucani,155.0,Mihai Stoica
+Yoga pentru copii,Lotus Râșcani,125.0,Elena Popescu
+Terapie cu plante,Lotus Botanica,195.0,Victor Ionescu
+Sesiuni de respirație conștientă,Lotus Centru,135.0,Daniela Stănescu
+Yogapentru elchilibru,Lotus Ciocana,145.0,Marian Rădulescu
+Masaj de detoxifiere,Lotus Buiucani,165.0,Alexandra Cojocaru
+Coaching de viață,Lotus Râșcani,185.0,Andreea Chiseliov
+Terapie cu sunete,Lotus Botanica,175.0,Maria Ionescu
+Yoga terapeutică,Lotus Centru,115.0,Ana Pop
+Yoga pentru flexibilitate,Lotus Ciocana,155.0,Andreea Chiseliov
+BodyBuilding,Lotus Centru,300.0,Angajat Test

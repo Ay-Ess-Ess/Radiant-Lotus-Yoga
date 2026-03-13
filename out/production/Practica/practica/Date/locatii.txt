@@ -1,0 +1,5 @@
+Lotus Botaniaca,str. Dacia 6/2,068089082,Stan_Ana
+Lotus Centru,str. Vasile Alecsandri 3,068346592,Ionescu_Vasile
+Lotus Ciocana,str. Transnistria 3,075238743,Dumitrescu_George
+Lotus Buiucani,str. Alba Iulia 20,074827634,Popescu_Maria
+Lotus Rascani,str.Carierei 13,068673482, Suhari Alexei
