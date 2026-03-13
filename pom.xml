@@ -16,7 +16,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <javafx.version>22.0.2</javafx.version>
-        <main.class>practica.Pagini.Practica</main.class>
+        <main.class>practica.Pagini.Launcher</main.class>
     </properties>
 
     <dependencies>

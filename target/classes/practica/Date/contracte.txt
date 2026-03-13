@@ -1,4 +1,0 @@
-Test User,Lotus Centru,Masaj terapeutic,2024-06-29,30,12:00,Andreea Chiseliov,4500.0
-Test User,Lotus Centru,Yoga pentru flexibilitate,2024-06-29,90,10:00,Andreea Chiseliov,13950.0
-Test User,Lotus Botaniaca,BodyBuilding,2024-06-24,30,14:00,Angajat Test,9000.0
-Radu Andrei,Lotus Botaniaca,BodyBuilding,2024-07-07,30,08:00,Angajat Test,9000.0
