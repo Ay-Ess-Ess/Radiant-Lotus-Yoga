@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b116a68-4bb9-4aef-9916-250e3962ceb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.githug/workflows/build.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/openjdk_25_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/configs/Run_as_WebStart.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/configs/Run_in_Browser.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/jfx-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/private/configs/Run_as_WebStart.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/private/configs/Run_in_Browser.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practica/Pagini/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practica/Pagini/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practica/Pagini/Practica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practica/Pagini/Practica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.githug/workflows/build.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
