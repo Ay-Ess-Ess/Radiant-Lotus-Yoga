@@ -1,10 +1,9 @@
-manager,Suhari Alexei,str Valea Crucii 4,068089082,suharia7002@gmail.com,alexeisuhari,234Alexei567,Lotus Botaniaca
 manager,Popescu Maria,str Primaverii 10,078289654,popescu.maria@example.com,mariapopescu,456Maria789,Lotus Centru
 manager,Ionescu Vasile,bd Independentei 30,0732123123,vasile.ionescu@example.com,vasileionescu,789Vasile123,Lotus Ciocana
 manager,Stan Ana,str Victoriei 25,0744123456,ana.stan@example.com,anastan,123Ana456,Lotus Buiucani
 manager,Dumitrescu George,str Bucuresti 5,0726123456,george.dumitrescu@example.com,georgedumitrescu,456George789,Lotus Rascani
-angajat,Plop Ion,str Cuza Voda 6,068563823,plopion23@gmail.com,ionutplop,ionut456,Lotus Botaniaca
-angajat,Andreea Chiseliov,str Moscovei 5,068964732,andreea@gmail.com,andychis,andy789,Lotus Centru
+angajat,Plic Ion,str Cuza Voda 6,068563823,ion2@gmail.com,ionutplop,ionut456,Lotus Botaniaca
+angajat,Andreea Vasilov,str Moscovei 5,068964732,andreea@gmail.com,andychis,andy789,Lotus Centru
 angajat,Ionescu Maria,str Libertatii 15,072312312,maria.ionescu@example.com,mariaionescu,567Maria890,Lotus Ciocana
 angajat,Pop Ana,str Victoriei 25,0744123456,ana.pop@example.com,anapop,987Ana654,Lotus Buiucani
 angajat,Andrei Vasile,bd Independentei 30,0732123123,vasile.andrei@example.com,vasileandrei,123Vasile456,Lotus Rascani
@@ -22,7 +21,7 @@ angajat,Radulescu Marian,bd Muncii 12,0729123456,marian.radulescu@example.com,ma
 angajat,Cojocaru Alexandra,str Crestei 4,0739123456,alexandra.cojocaru@example.com,alexandracojocaru,678Alexandra123,Lotus Centru
 angajat,Angajat Test,bd Muncii 12,0729123456,marian.radulescu@example.com,angajat,angajat,Lotus Botaniaca
 manager,Manager Test,bd Muncii 12,0729123456,marian.radulescu@example.com,manager,manager,Lotus Botaniaca
-user,Suhari Alexei,str Primaverii 10,078289654,popescu.ion@example.com,ionpopescu,ion456 Popescu
+user,Miron Alexei,str Primaverii 10,078289654,popescu.ion@example.com,ionpopescu,ion456 Popescu
 user,Ionescu Maria,str Libertatii 15,0723123123,maria.ionescu@example.com,mariaionescu,567Ionescu890
 user,Andrei Vasile,bd Independentei 30,0732123123,vasile.andrei@example.com,vasileandrei,123Vasile456
 user,Pop Ana,str Victoriei 25,0744123456,ana.pop@example.com,anapop,987Ana654
